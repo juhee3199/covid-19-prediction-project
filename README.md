@@ -1,1 +1,1 @@
-# covid-19-prediction-project
+# covid19-prediction-project
