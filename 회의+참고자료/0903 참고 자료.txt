@@ -1,0 +1,46 @@
+< 참고할 자료 및 데이터>
+
+
+코로나 확산 예방을 위한
+명절 기간 고속도로 휴게소 밀집도 예측 및 드라이브스루 휴게소 위치 제안
+https://dacon.io/competitions/official/235622/codeshare/1620
+
+--> 이 데이터를 기반으로 추석 교통량 예측과 예방정책을 낼 수 있을 것 같아요!!
+
+3. COVID19가 대중교통 이용량 감소의 원인 파악 및 문제점 도출
+코로나 집단감염 case 일자에 따른 대중교통 이용량 변화 분석
+https://dacon.io/competitions/official/235622/codeshare/1611
+
+
+확진자 행동 특성의 네 가지 유형으로 분류
+https://dacon.io/competitions/official/235590/codeshare/949
+
+
+전세계 코로나 확산 추이  COVID-19: current situation on August
+https://www.kaggle.com/corochann/covid-19-current-situation-on-august
+
+
+통계로 본 코로나19 발생 추이와 현황
+http://kostat.go.kr/sri/srikor/srikor_pbl/4/index.board?bmode=download&aSeq=383403&sort=1
+
+
+참고할 데이터:
+국토교통 데이터와 코로나 데이터 등을 융합분석하여, 국민의 안전한 이동을 위한 새로운 통찰과 창의적 아이디어 도출
+https://dacon.io/competitions/official/235622/data/
+
+
+
+< 외국 사례 >
+
+국가별 코로나 대응과 그 결과
+http://www.doctorstimes.com/news/articleView.html?idxno=210771
+
+국외 발생현황
+http://ncov.mohw.go.kr/bdBoardList_Real.do?brdId=1&brdGubun=14&ncvContSeq=&contSeq=&board_id=&gubun=
+
+대만의 빠른 대응
+http://www.newscj.com/news/articleView.html?idxno=725013
+
+호주
+https://www.sbs.com.au/language/korean/australia-has-recorded-fewer-than-100-coronavirus-deaths-why-do-other-countries-differ-so-much
+
