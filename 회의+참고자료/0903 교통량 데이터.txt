@@ -1,0 +1,34 @@
+< 분석 방향(?) >
+
+1. 이번 추석 교통량 예측
+- 코로나로 인해 교통량에 변화가 있었는지!! 
+- 추석 또는 연휴 기간동안의 교통량은???
+- 추석기간 교통량에 코로나로 인해 줄어든 교통량 반영!!
+ 
+
+2. 휴게소 밀집도 및 코로나 위험도 예측 
+- 교통량, 휴게소 선호도 등을 통해 각 휴게소(경기도 내)에 사람들이 얼마나 밀집할 것인지를 예측
+---> 이를 통해 코로나 위험도를 예측
+
+
+3. 코로나 확산 예방 방침 (정책)
+
+
+
+< 데이터 >
+
+* 주간 교통분석 (교통량)
+http://data.ex.co.kr/portal/fdwn/view?type=TCS&num=D3&requestfrom=dataset#
+	전년평균 교통량 데이터가 있어서 사용하기 편리할 듯!
+	영업소가 6개로 나눠져있어서 경기도 내 교통량을 알기는 어렵다.
+	
+
+* TCS_영업소별교통량  = 동현님이 올려주신 데이터셋
+http://data.ex.co.kr/portal/fdwn/view?type=TCS&num=34&requestfrom=dataset#
+	영업소별,  차종별 -> 경기도내 교통량, 휴게소 이용인원? 정보를 뽑아내기 좋을 것 같다.
+	월별로 다 다운받아야함ㅠㅠ
+
+
+
+* 추석연휴 특별교통소통대책 결과
+http://data.ex.co.kr/portal/docu/docuList?datasetId=98&serviceType=&keyWord=&searchDayFrom=2014.12.01&searchDayTo=2020.09.07&CATEGORY=TR&GROUP_TR=ETC
